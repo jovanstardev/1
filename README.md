@@ -59,21 +59,19 @@ public class PluginDeveloper extends JavaPlugin {
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanstardev&show_icons=true&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=minecraft-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jovanstardev&theme=minecraft-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 </div>
 
 ---
 
-</div>
-
-### 🔥 Notable Plugins
+## 🔥 Notable Plugins
 
 | Plugin | Description | View |
-|--------|-------------|-----------|
-| **[DonutRTP]** | Allows players to teleport on random locations | ![Check it](https://builtbybit.com/resources/donutrtp-rtp-rtpzone.69594/) |
-| **[DonutCombat]** | Prevent players to leave in the middle of fight | ![Check it](https://builtbybit.com/resources/donutcombat.66156/) |
-| **[DonutSpawners]** | Custom Virtual Spawner plugin | ![Check it](https://builtbybit.com/resources/donutspawners-modern-replica.80064/) |
+|--------|-------------|------|
+| **DonutRTP** | Allows players to teleport on random locations | [Check it out!](https://builtbybit.com/resources/donutrtp-rtp-rtpzone.69594/) |
+| **DonutCombat** | Prevent players to leave in the middle of fight | [Check it out!](https://builtbybit.com/resources/donutcombat.66156/) |
+| **DonutSpawners** | Custom Virtual Spawner plugin | [Check it out!](https://builtbybit.com/resources/donutspawners-modern-replica.80064/) |
 
 ---
 
@@ -113,7 +111,7 @@ Design Patterns:
 
 ## 🎮 What I'm Working On
 
-🔨 Currently developing: **[DonutTeams]**  
+🔨 Currently developing: **DonutTeams**  
 📖 Learning: Advanced NMS & Packet Manipulation  
 🌱 Exploring: Minecraft Modding with Fabric/Forge  
 💬 Ask me about: **Spigot Plugin Development, Performance Optimization**
@@ -146,7 +144,7 @@ Design Patterns:
 
 If you like my plugins and want to support development:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/jovanstar867)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jovanstar867)
 
 ---
 
@@ -155,4 +153,3 @@ If you like my plugins and want to support development:
 **⚡ "Crafting the future of Minecraft, one line of code at a time." ⚡**
 
 </div>
-
