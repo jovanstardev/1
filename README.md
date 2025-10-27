@@ -57,9 +57,7 @@ public class PluginDeveloper extends JavaPlugin {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanstardev&show_icons=true&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=minecraft-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
@@ -67,19 +65,11 @@ public class PluginDeveloper extends JavaPlugin {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Plugin 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PLUGIN_REPO_1&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/YOUR_USERNAME/PLUGIN_REPO_1)
-
-[![Plugin 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PLUGIN_REPO_2&theme=minecraft&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/YOUR_USERNAME/PLUGIN_REPO_2)
-
 </div>
 
 ### 🔥 Notable Plugins
 
-| Plugin | Description | Downloads |
+| Plugin | Description | View |
 |--------|-------------|-----------|
 | **[DonutRTP]** | Allows players to teleport on random locations | ![Check it](https://builtbybit.com/resources/donutrtp-rtp-rtpzone.69594/) |
 | **[DonutCombat]** | Prevent players to leave in the middle of fight | ![Check it](https://builtbybit.com/resources/donutcombat.66156/) |
