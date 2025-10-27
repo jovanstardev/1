@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm JovanStar!
 
 ### 🎮 Minecraft Plugin Developer | ⚡ Spigot & Bukkit Enthusiast
 
@@ -15,9 +15,9 @@
 ```java
 public class PluginDeveloper extends JavaPlugin {
     
-    private String name = "Your Name";
+    private String name = "JovanStar";
     private String focus = "Minecraft Plugin Development";
-    private String[] expertise = {"Spigot", "Paper", "Bukkit", "BungeeCord"};
+    private String[] expertise = {"Spigot", "Paper", "Bukkit"};
     
     @Override
     public void onEnable() {
@@ -81,9 +81,9 @@ public class PluginDeveloper extends JavaPlugin {
 
 | Plugin | Description | Downloads |
 |--------|-------------|-----------|
-| **[Plugin Name 1]** | Brief description of what it does | ![Downloads](https://img.shields.io/badge/downloads-10K+-00ff00) |
-| **[Plugin Name 2]** | Brief description of what it does | ![Downloads](https://img.shields.io/badge/downloads-5K+-00ff00) |
-| **[Plugin Name 3]** | Brief description of what it does | ![Downloads](https://img.shields.io/badge/downloads-3K+-00ff00) |
+| **[DonutRTP]** | Allows players to teleport on random locations | ![Check it](https://builtbybit.com/resources/donutrtp-rtp-rtpzone.69594/) |
+| **[DonutCombat]** | Prevent players to leave in the middle of fight | ![Check it](https://builtbybit.com/resources/donutcombat.66156/) |
+| **[DonutSpawners]** | Custom Virtual Spawner plugin | ![Check it](https://builtbybit.com/resources/donutspawners-modern-replica.80064/) |
 
 ---
 
@@ -96,7 +96,7 @@ Plugin Development:
   - Configuration Files (YAML)
   - Economy Integration (Vault)
   - Permission Systems
-  - Database Integration (MySQL, SQLite, MongoDB)
+  - Database Integration (MySQL, SQLite)
   - Redis & BungeeCord Networks
   - Packet Manipulation (ProtocolLib)
   - NBT Data Management
@@ -123,7 +123,7 @@ Design Patterns:
 
 ## 🎮 What I'm Working On
 
-🔨 Currently developing: **[Current Project Name]**  
+🔨 Currently developing: **[DonutTeams]**  
 📖 Learning: Advanced NMS & Packet Manipulation  
 🌱 Exploring: Minecraft Modding with Fabric/Forge  
 💬 Ask me about: **Spigot Plugin Development, Performance Optimization**
@@ -134,10 +134,8 @@ Design Patterns:
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-FF9900?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/YOUR_ID/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/starstudiomc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovanstardev@gmail.com)
 
 </div>
 
@@ -145,11 +143,10 @@ Design Patterns:
 
 ## 🏆 Achievements
 
-- ⭐ **10,000+** Total Plugin Downloads
-- 🌟 **XX** Plugins Published
-- 👥 Serving **X,XXX+** Active Servers
-- 💬 **5-Star** Average Rating on SpigotMC
-- 🎖️ Contributing to the Minecraft Community since **20XX**
+- ⭐ **300+** Total Plugin Downloads
+- 🌟 **14** Plugins Published
+- 💬 **5-Star** Average Rating on BuiltByBit
+- 🎖️ Contributing to the Minecraft Community since **2022**
 
 ---
 
@@ -159,12 +156,11 @@ Design Patterns:
 
 If you like my plugins and want to support development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/jovanstar867])
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=jovanstardev&color=00ff00&style=for-the-badge)
 
 **⚡ "Crafting the future of Minecraft, one line of code at a time." ⚡**
 
