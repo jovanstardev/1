@@ -146,7 +146,7 @@ Design Patterns:
 
 If you like my plugins and want to support development:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/jovanstar867])
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/jovanstar867)
 
 ---
 
